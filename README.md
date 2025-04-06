@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Visual Scene Understading**
 
-- 🌱 I’m currently learning **PyTorch, Tensorflow, Keras, OpenCV, Pandas, Numpy,**
+- 🌱 I’m currently learning **Model Compression, Multi-head Attention, Diffusion Model**
 
 - 👯 I’m looking to collaborate on **Computer Vision**
 
