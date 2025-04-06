@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit</h1>
-<h3 align="center">A final year sophmore in CS</h3>
+<h3 align="center">A final year sophomore in CS</h3>
 
 - 🔭 I’m currently working on **Visual Scene Understading**
 
